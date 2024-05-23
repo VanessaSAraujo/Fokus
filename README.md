@@ -29,9 +29,9 @@ Este projeto foi desenvolvido apenas com JavaScript manipulando o DOM, não util
 1. Clone ou baixe este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
 
-Ou visualize através do github Pages
+Ou visualize através do Vercel
 
-1. https://vanessasaraujo.github.io/Fokus/
+1. https://fokus-mauve.vercel.app
 
 ### Créditos
 
